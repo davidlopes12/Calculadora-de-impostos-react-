@@ -1,0 +1,1 @@
+Este aplicativo é essencialmente uma calculadora de impostos. Inicialmente, o valor dos impostos é fictício, servindo como um protótipo para calcular os impostos sobre produtos de clientes específicos.
